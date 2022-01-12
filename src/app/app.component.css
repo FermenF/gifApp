@@ -1,0 +1,19 @@
+nav{
+    padding: 5px;
+    background-color: black;
+    text-align: center;
+    color: #fff;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 100%;
+}
+
+.container-app{
+    margin-bottom: 5px;
+}
+
+@media screen and (min-width: 769px) {
+    .container-app{
+        display: flex;
+    }
+}

@@ -1,0 +1,9 @@
+.container_resultados{
+ margin: 0 25px;
+}
+
+.card-body{
+    background: #fff;
+    margin-bottom: 5px;
+    border-radius: 0px 0px 5px 5px;
+}

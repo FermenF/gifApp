@@ -1,0 +1,6 @@
+<div class="sideBar">
+  <div class="history-item" *ngFor="let item of historial" (click)="buscar( item )">
+    {{item | titlecase}}<div class="history-quit"><button>X</button></div>
+  </div>
+</div>
+
